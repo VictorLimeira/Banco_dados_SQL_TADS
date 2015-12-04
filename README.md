@@ -3,7 +3,7 @@ Repositório criado para armazenar os scripts criados nas disciplinas de banco d
 
 # Objetivos:
 * Desenvolver os scripts para criar e popular o banco ´imobiliaria´ da disciplina Programação de Banco de Dados do 4º período.
-* Desenvolver os scripts para criar e popular o banco utilizado na disciplina Banco de Dados do 3º período.
+* Desenvolver os scripts para criar e popular o banco utilizado na disciplina Banco de Dados do 3º período. (Finalizado)
 
 # Estrutura:
 1. README.md
